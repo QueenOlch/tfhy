@@ -73,12 +73,12 @@ https://developer.valvesoftware.com/wiki/List_of_Team_Fortress_2_console_command
 https://comp.tf/wiki/Useful_console_commands 
 
 
-https://whitelist.tf/ - comp whitelists of items 
-https://essentials.tf/ - comp major events managment 
-https://ozfortress.com/ - comp something 
-https://serveme.tf/ - comp servers for free 
-https://tfcleague.com/ - comp league trying to get its footing 
-https://logs.tf/ 
+https://whitelist.tf/ - comp whitelists of items  
+https://essentials.tf/ - comp major events managment  
+https://ozfortress.com/ - comp something  
+https://serveme.tf/ - comp servers for free  
+https://tfcleague.com/ - comp league trying to get its footing  
+https://logs.tf/  
 
 
 https://hugs.tf/ - charity stream event 

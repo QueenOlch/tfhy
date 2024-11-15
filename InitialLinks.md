@@ -6,9 +6,16 @@
 ## Keys and Ref 
 
 ### Automated 
-scrap.tf 
+scrap.tf  
+https://stntrading.eu/  
+
 ### Real Players 
 backpack.tf 
+
+# Economy Tools
+*https://calculator.tf/  
+trade.tf - very outdated site but does have steam community market search  
+
 
 loadout.tf 
 # Server Networks 
@@ -41,17 +48,13 @@ https://unboxer.tf/
 item search https://item.tf/  
 
 Sites to investigate:  
-https://tf2finance.com/  
-https://firepoweredgaming.com/forums/  
-https://www.trade.tf/  
-https://stntrading.eu/  
+https://firepoweredgaming.com/forums/   
 https://sfuminator.tf/  
 https://dispenser.tf/ - sketch af but lets you buy games for keys  
 https://tf2trade.tf/  
 https://tradeit.gg/tf2/trade  
 
 https://rep.tf/  
-https://calculator.tf/  
 https://www.panda-community.com/  
 http://www.neonheightsservers.com/ (dead?)  
 https://retroservers.net/ (dead?)  

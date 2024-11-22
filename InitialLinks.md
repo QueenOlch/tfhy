@@ -5,9 +5,9 @@
 *Metal - stntrading (https://stntrading.eu/)  
 *Metal, real players - backpack.tf  
 Metal - tf2trade.tf  
-Real money - tradeit.gg (https://tradeit.gg/tf2/trade)  
 Metal - sfuminator.tf  
-Metal - trade.tf
+Metal - trade.tf  
+Real money - tradeit.gg (https://tradeit.gg/tf2/trade)  
 Metal/Real Money - dispenser.tf
 
 # Selling Items

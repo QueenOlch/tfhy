@@ -1,23 +1,41 @@
-# Buying Items 
-## Real Money 
-*marketplace.tf 
-*mannco.store 
+# Buying Items  
+*Real money - marketplace.tf  
+*Real money - mannco.store  
+*Metal - scrap.tf  
+*Metal - stntrading (https://stntrading.eu/)  
+*Metal, real players - backpack.tf  
+Metal - tf2trade.tf  
+Real money - tradeit.gg (https://tradeit.gg/tf2/trade)  
+Metal - sfuminator.tf  
+Metal - trade.tf
+Metal/Real Money - dispenser.tf
 
-## Keys and Ref 
+# Selling Items
+*Metal, real players - backpack.tf  
+*Real money - mannco.store  
+Metal - scrap.tf  
+Metal - stntrading (https://stntrading.eu/)  
+Metal - tf2trade.tf  
 
-### Automated 
-scrap.tf  
-https://stntrading.eu/  
+# Steam Games for Keys
+*Steamtrades.com (https://www.steamtrades.com/trades/search?have=tf2)  
+Dispenser.tf  
 
-### Real Players 
-backpack.tf 
+# Trading Tools  
+*Trader reputation - rep.tf  
+*Price index - backpack.tf  
+*Currency converter - calculator.tf  
+Inventory rankings and market cap - steamcollector.com  
 
-# Economy Tools
-*https://calculator.tf/  
-trade.tf - very outdated site but does have steam community market search  
+# Giveaways
+*scrap.tf  
 
+# Tools
+*Item search - item.tf  
+*Loadout creator - loadout.tf  
+*Fake crate unboxing - unboxer.tf  
+Warpaint browser - tf2warpaints.tf  
 
-loadout.tf 
 # Server Networks 
 https://www.skial.com/ 
 
@@ -43,18 +61,10 @@ https://tf2maps.net/home/
 # HUDS and other settings
 
 
-https://tf2warpaints.tf/  
-https://unboxer.tf/  
-item search https://item.tf/  
-
 Sites to investigate:  
 https://firepoweredgaming.com/forums/   
-https://sfuminator.tf/  
-https://dispenser.tf/ - sketch af but lets you buy games for keys  
-https://tf2trade.tf/  
-https://tradeit.gg/tf2/trade  
 
-https://rep.tf/  
+
 https://www.panda-community.com/  
 http://www.neonheightsservers.com/ (dead?)  
 https://retroservers.net/ (dead?)  

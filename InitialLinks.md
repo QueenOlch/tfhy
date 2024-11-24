@@ -1,41 +1,3 @@
-# Buying Items  
-*Real money - marketplace.tf  
-*Real money - mannco.store  
-*Metal - scrap.tf  
-*Metal - stntrading (https://stntrading.eu/)  
-*Metal, real players - backpack.tf  
-Metal - tf2trade.tf  
-Metal - sfuminator.tf  
-Metal - trade.tf  
-Real money - tradeit.gg (https://tradeit.gg/tf2/trade)  
-Metal/Real Money - dispenser.tf
-
-# Selling Items
-*Metal, real players - backpack.tf  
-*Real money - mannco.store  
-Metal - scrap.tf  
-Metal - stntrading (https://stntrading.eu/)  
-Metal - tf2trade.tf  
-
-# Steam Games for Keys
-*Steamtrades.com (https://www.steamtrades.com/trades/search?have=tf2)  
-Dispenser.tf  
-
-# Trading Tools  
-*Trader reputation - rep.tf  
-*Price index - backpack.tf  
-*Currency converter - calculator.tf  
-Inventory rankings and market cap - steamcollector.com  
-
-# Giveaways
-*scrap.tf  
-
-# Tools
-*Item search - item.tf  
-*Loadout creator - loadout.tf  
-*Fake crate unboxing - unboxer.tf  
-Warpaint browser - tf2warpaints.tf  
-
 # Server Networks 
 https://www.skial.com/ 
 
@@ -86,12 +48,8 @@ https://developer.valvesoftware.com/wiki/List_of_Team_Fortress_2_console_command
 https://comp.tf/wiki/Useful_console_commands  
 
 
-https://whitelist.tf/ - comp whitelists of items   
 https://essentials.tf/ - comp major events managment   
-https://ozfortress.com/ - comp something  
-https://serveme.tf/ - comp servers for free  
 https://tfcleague.com/ - comp league trying to get its footing  
-https://logs.tf/  
 
 
 https://hugs.tf/ - charity stream event  
@@ -100,6 +58,14 @@ https://tipofthehats.org/ - dead?
 https://fuckyeahtf2.tumblr.com/  
 
 https://save.tf/  
+
+https://vanillatf2.com/ - servers
+https://servers.ugc-gaming.net/ UGC servers
+https://cappingtv.com/sb25/ LAN league
+
+https://www.reddit.com/r/tf2/comments/iac4m/the_ultimate_tf2_configuration_guide/
+
+https://liquipedia.net/teamfortress/Main_Page wiki
 
 # Jumping
 https://jumpacademy.tf/  

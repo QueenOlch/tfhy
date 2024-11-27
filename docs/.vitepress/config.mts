@@ -17,6 +17,7 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'The Economy/Trading', link: '/trading' },
+          { text: 'Competitive TF2', link: '/comp' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
@@ -25,8 +26,10 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ],
+    /*
     search: {
       provider: 'local', // Default search provider
     },
+    */
   }
 })

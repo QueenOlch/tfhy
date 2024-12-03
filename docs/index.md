@@ -6,13 +6,22 @@ layout: home
 hero:
   name: "tfhy"
   text: "tf hell yeah"
-  tagline: My great project tagline
+  tagline: Compendium of resources, tools, and sites for the best game ever made
+  image:
+    src: /engie.png
+    alt: engie
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Beginner's Guide
+      link: /start
+    - theme: brand
+      text: Using This Site
+      link: /help
     - theme: alt
-      text: API Examples
+      text: Contribute
+      link: /contribute
+    - theme: alt
+      text: Discord
       link: /api-examples
 
 features:

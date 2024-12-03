@@ -8,17 +8,33 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: "Beginner's Guide", link: '/start' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: "Beginner's Guide", link: '/start' },
+          { text: "Using This Site", link: '/help' },
+        ]
+      },
+      {
+        text: 'Base Game',
+        items: [
+          { text: 'Game Guides', link: '/guides' },
+          { text: 'Unlockable Guides', link: '/weapons' },
+          { text: 'Config and HUDs', link: '/config' },
           { text: 'The Economy/Trading', link: '/trading' },
           { text: 'Competitive TF2', link: '/comp' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Passtime', link: '/passtime' }
+        ]
+      },
+      {
+        text: 'External Software and Tools',
+        items: [
+          { text: 'Hammer/Mapmaking', link: '/maps' },
+          { text: 'Using SFM', link: '/sfm' },
+          { text: 'SFM Films', link: '/films' }
         ]
       }
     ],

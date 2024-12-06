@@ -74,6 +74,39 @@ Sourcemods:
 https://openfortress.fun/  
 https://tf2classic.com/  
 
+# Media
+Emesis Blue - https://youtu.be/V0ODG8bFme0
+Trailer - https://www.youtube.com/watch?v=XS4mbuyRNxQ
+Teaser - https://www.youtube.com/watch?v=Qzqa527mVx8
+Teaser - https://www.youtube.com/watch?v=SaMwH9-sKoI
+Teaser - https://youtu.be/_FoNWC48w8g
+The What - https://youtu.be/DDlstyGd9kg
+Salletrex - https://youtu.be/cyqkyXohpqM
+Film References - https://youtu.be/4HCj64KhcEs
+Wikipedia Page - https://en.wikipedia.org/wiki/Emesis_Blue
+IMDB Page - https://www.imdb.com/title/tt26900526/
+
+Great Blue Emesis Blue map - https://youtu.be/pmZPETeUvBg
+Scout's Requiem -https://youtu.be/wOXsFgVkltQ
+
+Murder Inc Teaser - https://youtu.be/BRuJrddQ3EU
+Snapshots - https://youtu.be/7va9t59nEgE
+
+Rick May Tribute - https://youtu.be/bAZB-RUmPYg
+
+MvM Update Teaser -https://youtu.be/C4cfo0f88Ug
+End of the Line -https://youtu.be/6aLjwVVNq4s
+
+Meet the scout - https://youtu.be/geNMz0J9TEQ
+Meet the Pootis - https://youtu.be/jHgZh4GV9G0
+Meet the demo - https://youtu.be/han3AfjH210
+
+Kazotsky Kick - https://youtu.be/QDCPKBF7a1Q
+Meet Your Match Update teaser - https://youtu.be/gvuqLylQOoE
+
+Music:
+Beginning to look a lot like dustbowl - https://youtu.be/QF0ACRyNDbM
+
 Used Resources: 
 https://steamcommunity.com/app/440/discussions/0/135511913386488106/ 
 https://www.reddit.com/r/tf2/comments/119ljfg/guide_to_turning_your_newly_acquired_crate_key_or/ 

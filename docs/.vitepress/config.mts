@@ -8,7 +8,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: "Beginner's Guide", link: '/start' }
+      { text: "Beginner's Guide", link: '/start' },
+      { text: "Using This Site", link: '/help' }
     ],
 
     sidebar: [
@@ -16,16 +17,25 @@ export default defineConfig({
         items: [
           { text: "Beginner's Guide", link: '/start' },
           { text: "Using This Site", link: '/help' },
+          { text: "Posts", link: '/posts' },
         ]
       },
       {
-        text: 'Base Game',
+        text: 'Basic Wiki',
         items: [
           { text: 'Game Guides', link: '/guides' },
-          { text: 'Unlockable Guides', link: '/weapons' },
+          { text: 'Weapon Guides', link: '/weapons' },
+          { text: 'Community Servers + Groups', link: '/servers' },
           { text: 'Config and HUDs', link: '/config' },
+        ]
+      },
+      {
+        text: 'Expanded Wiki',
+        items: [
           { text: 'The Economy/Trading', link: '/trading' },
           { text: 'Competitive TF2', link: '/comp' },
+          { text: 'Mann versus Machine', link: '/mvm' },
+          { text: 'Rocket Jumping', link: '/jumping' },
           { text: 'Passtime', link: '/passtime' }
         ]
       },

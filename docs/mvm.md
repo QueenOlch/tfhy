@@ -1,1 +1,1 @@
-{\rtf1}
+Currently empty (need resources!)
